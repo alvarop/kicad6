@@ -37,7 +37,7 @@
   (pad "B8" smd roundrect (at -1.75 0) (size 0.3 1.15) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 042c5c79-a61a-43fa-af3d-89324e009afd))
   (pad "B9" smd roundrect (at -2.4 0) (size 0.6 1.15) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 7b9a5487-889c-49bb-a809-f29c13bf6196))
   (pad "B12" smd roundrect (at -3.2 0) (size 0.6 1.15) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 9b6df2c1-7d16-4b70-93f7-abe922145c02))
-  (model ":gct:USB4105-GF-A.stp"
+  (model "${ALVAROP_3D_DIR}/USB4105-GF-A.stp"
     (offset (xyz 0 -7.4 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

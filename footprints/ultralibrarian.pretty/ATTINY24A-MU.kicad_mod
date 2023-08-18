@@ -87,7 +87,7 @@
   (pad "19" smd rect (at -0.499999 -1.905) (size 0.254 0.8128) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f01fcb09-1aa9-4bb7-9759-416818357aab))
   (pad "20" smd rect (at -1.000001 -1.905) (size 0.254 0.8128) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5468d53a-4c27-4e0b-9353-e64153a2555c))
   (pad "21" smd rect (at 0 0) (size 2.6924 2.667) (layers "F.Cu" "F.Mask") (tstamp 648982df-634e-4f11-bc54-823b5652b9fa))
-  (model ":3d:20M1_ATM.step"
+  (model "${ALVAROP_3D_DIR}/20M1_ATM.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

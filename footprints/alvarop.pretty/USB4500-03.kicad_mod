@@ -37,7 +37,7 @@
   (pad "S1" thru_hole oval (at 5.62 4.6) (size 1 2.2) (drill oval 0.6 1.8) (layers *.Cu *.Mask) (tstamp 395a0cf0-e9dd-4def-9142-ae9cce26bab0))
   (pad "S1" thru_hole oval (at -5.62 4.6) (size 1 2.2) (drill oval 0.6 1.8) (layers *.Cu *.Mask) (tstamp 4832ec94-33d2-491a-987b-7def90eed38f))
   (pad "S1" thru_hole oval (at 5.62 0.6) (size 1 1.8) (drill oval 0.6 1.4) (layers *.Cu *.Mask) (tstamp d5ca8fc8-81f8-4a87-b951-6a5fa74306bd))
-  (model ":3d:USB4500-03-0-A.stp"
+  (model "${ALVAROP_3D_DIR}/USB4500-03-0-A.stp"
     (offset (xyz -0.5 -6.6 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

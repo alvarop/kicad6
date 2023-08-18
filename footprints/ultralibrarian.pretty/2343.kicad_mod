@@ -54,7 +54,7 @@
   (pad "4" smd rect (at 2.3876 1.599999) (size 1.3462 1.0414) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp af827dbd-c796-4518-8bd9-478ae9af4bae))
   (pad "5" smd rect (at 2.3876 0) (size 1.3462 1.0414) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 94ba6ee1-0a38-46f0-8539-aaf2041c50c4))
   (pad "6" smd rect (at 2.3876 -1.599999) (size 1.3462 1.0414) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 271e7ec7-100c-4f6c-aab7-de546ab1b728))
-  (model ":3d:APA102C.STEP"
+  (model "${ALVAROP_3D_DIR}/APA102C.STEP"
     (offset (xyz 0 0 0.127))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

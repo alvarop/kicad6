@@ -44,7 +44,7 @@
   (pad "S1" thru_hole circle locked (at 2.4 -2.15) (size 1.1 1.1) (drill 0.7) (layers *.Cu *.Mask) (tstamp e23ed139-9cf3-4c1d-ae38-3783f8fa84f8))
   (pad "S1" thru_hole circle locked (at -2.4 -2.15) (size 1.1 1.1) (drill 0.7) (layers *.Cu *.Mask) (tstamp e5a1fcd1-2a20-41a7-beef-59ad395dbd4e))
   (pad "S1" thru_hole circle locked (at -2.4 2.15) (size 1.1 1.1) (drill 0.7) (layers *.Cu *.Mask) (tstamp fd2f01e4-f316-4c01-82b8-00421f73be9a))
-  (model ":3d:USB4115-03-C.stp"
+  (model "${ALVAROP_3D_DIR}/USB4115-03-C.stp"
     (offset (xyz 2.35 10.4 4))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

@@ -40,7 +40,7 @@
   (pad "8" smd rect (at 1.27 -2.035) (size 0.74 2.79) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0d6e7bfa-9e9c-4997-9353-f6c06efef479))
   (pad "9" smd rect (at 2.54 2.035) (size 0.74 2.79) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1ba1e2fd-d80d-48d9-8d81-d6b939ecd4b4))
   (pad "10" smd rect (at 2.54 -2.035) (size 0.74 2.79) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8a5ace57-82a2-4c68-adc8-649af4567b32))
-  (model "/home/alvaro/code/kicad6/3d/FTSH-105-01-F-DV-P-TR.step"
+  (model "${ALVAROP_3D_DIR}/FTSH-105-01-F-DV-P-TR.step"
     (offset (xyz 0 0 0.381))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

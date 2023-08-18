@@ -71,7 +71,7 @@
   (pad "B12" smd roundrect (at -2.75 0) (size 0.36 1) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25) (tstamp 8b338a70-b240-4f93-8eca-03c29da5794b))
   (pad "S1" smd roundrect (at 3.42 0.84) (size 0.7 1.15) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25) (tstamp 5124d1d4-74ec-4df3-9ad2-0e3b409b78a7))
   (pad "S1" smd roundrect (at -3.42 0.84) (size 0.7 1.15) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 90cfee4d-e8b7-4ca2-a5f4-290528eca75d))
-  (model ":3d:1054440011.stp"
+  (model "${ALVAROP_3D_DIR}/1054440011.stp"
     (offset (xyz 0 3.4 -0.45))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 0 0))

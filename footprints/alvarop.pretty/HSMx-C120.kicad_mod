@@ -22,7 +22,7 @@
   (pad "" smd roundrect (at 0 -0.35) (size 0.4 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp d8706bd6-d794-4259-94a8-608805d196a0))
   (pad "1" smd roundrect (at 1 0) (size 0.8 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 0a6ae8d1-2a58-42b4-a2a6-e4f39231d3af))
   (pad "2" smd roundrect (at -1 0) (size 0.8 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 7a00abec-a2ec-4ec8-9d2d-dc6df0de9c2e))
-  (model "/home/alvaro/code/kicad6/3d/HSMx-C120.step"
+  (model "${ALVAROP_3D_DIR}/HSMx-C120.step"
     (offset (xyz 0 -0.2286 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))

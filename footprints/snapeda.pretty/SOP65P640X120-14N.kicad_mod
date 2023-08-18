@@ -36,7 +36,7 @@
   (pad "12" smd roundrect (at 2.87 -0.65) (size 1.57 0.41) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.05) (tstamp 6dfbdf83-6c1c-4ba6-a2ba-88f7d36efcb1))
   (pad "13" smd roundrect (at 2.87 -1.3) (size 1.57 0.41) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.05) (tstamp b57ba258-7a6b-4a16-beb8-39cfb954bcfb))
   (pad "14" smd roundrect (at 2.87 -1.95) (size 1.57 0.41) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.05) (tstamp 2adac1d8-d035-4946-9fdd-4789634098c5))
-  (model "/home/alvaro/code/kicad6/3d/TMUX1511PWR.step"
+  (model "${ALVAROP_3D_DIR}/TMUX1511PWR.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

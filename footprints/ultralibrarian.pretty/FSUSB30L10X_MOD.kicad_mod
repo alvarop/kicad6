@@ -120,7 +120,7 @@
   (pad "8" smd rect (at 0.56 -0.25 90) (size 0.25 0.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2bfa8f8d-cc33-4fca-be0b-891466c4dc5e))
   (pad "9" smd rect (at 0.56 -0.750001 90) (size 0.25 0.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d35d45d7-c2cf-424c-b81e-b94d0bf31e08))
   (pad "10" smd rect (at 0 -0.81) (size 0.25 0.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e82ebb99-a6b9-48fa-9aa1-331985f42c93))
-  (model ":ultralibrarian:MICROPAK10_2P1X1P6_ONS.step"
+  (model "${ALVAROP_3D_DIR}/MICROPAK10_2P1X1P6_ONS.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

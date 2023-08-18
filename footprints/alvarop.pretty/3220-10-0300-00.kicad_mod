@@ -33,7 +33,7 @@
   (pad "8" smd roundrect (at 1.27 -2.015) (size 0.65 2.77) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp d0330d88-bd9d-4fa5-8b89-1b2d95749b04))
   (pad "9" smd roundrect (at 2.54 2.015) (size 0.65 2.77) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 0f30fcbb-b329-4f41-9ecf-e9563f7bad41))
   (pad "10" smd roundrect (at 2.54 -2.015) (size 0.65 2.77) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp fb039884-3e73-4397-80ae-d0e816d49104))
-  (model ":mfg:3220-10-0300.igs"
+  (model "${ALVAROP_3D_DIR}/3220-10-0300.igs"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

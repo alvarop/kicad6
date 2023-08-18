@@ -28,7 +28,7 @@
   (pad "3" smd roundrect (at -1.255 0.95) (size 1.21 0.59) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.15) (tstamp 9bc35066-bf49-4fb1-9b7a-f7e94f104b4d))
   (pad "4" smd roundrect (at 1.255 0.95) (size 1.21 0.59) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.15) (tstamp 15bc015c-7afb-427a-83cc-674e31456083))
   (pad "5" smd roundrect (at 1.255 -0.95) (size 1.21 0.59) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.15) (tstamp e22b7022-2fa4-41ab-900a-0437aa3f891a))
-  (model "/home/alvaro/code/kicad6/3d/SN74AHC1G08DBVRG4.step"
+  (model "${ALVAROP_3D_DIR}/SN74AHC1G08DBVRG4.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

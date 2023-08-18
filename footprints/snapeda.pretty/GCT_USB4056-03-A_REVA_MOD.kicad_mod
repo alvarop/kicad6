@@ -323,7 +323,7 @@
   (pad "S2" thru_hole oval (at 4.129999 -4.399999) (size 0.8128 1.4224) (drill oval 0.5 1.1) (layers *.Cu *.Mask) (tstamp 4dbeeb21-be07-435d-8acc-bf7cc2691af3))
   (pad "S3" thru_hole oval (at -4.490001 0) (size 0.8128 1.4224) (drill oval 0.5 1.1) (layers *.Cu *.Mask) (tstamp dad10e78-32b7-4f6e-8f35-baabc309b44e))
   (pad "S4" thru_hole oval (at 4.490001 0) (size 0.8128 1.4224) (drill oval 0.5 1.1) (layers *.Cu *.Mask) (tstamp 1fea9fe2-6204-4803-a1a8-bfb0a65e38ab))
-  (model "/home/alvaro/code/kicad6/3d/USB4056-03-A--3DModel-STEP-194946.STEP"
+  (model "${ALVAROP_3D_DIR}/USB4056-03-A--3DModel-STEP-194946.STEP"
     (offset (xyz -2.7686 11.43 -3.81))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

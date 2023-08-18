@@ -11,7 +11,7 @@
     (tstamp 5b96c1ad-46ba-4366-8241-fbc1cd0e9bbd)
   )
   (pad "1" smd rect (at 0 0) (size 3.2 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f1dd8642-b405-490b-a449-d1cc5797fda8))
-  (model "/home/alvaro/code/kicad6/3d/RCWCTE--3DModel-STEP-56544.STEP"
+  (model "${ALVAROP_3D_DIR}/RCWCTE--3DModel-STEP-56544.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

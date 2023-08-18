@@ -46,7 +46,7 @@
   (pad "S1" thru_hole oval locked (at 3.845 -1.55 90) (size 0.7 1.05) (drill oval 0.4 0.75) (layers *.Cu *.Mask) (tstamp c52413ee-d1f1-44d9-b7da-d201c3017ea0))
   (pad "S1" thru_hole oval locked (at 4.5 3.765) (size 1 2.4) (drill oval 0.5 1.5 (offset 0 0.2)) (layers *.Cu *.Mask) (tstamp f3ab381c-0ca8-45e1-807a-1c17a740004b))
   (pad "S1" thru_hole oval locked (at 4.13 1.25) (size 0.8 1.4) (drill oval 0.5 1.1) (layers *.Cu *.Mask) (tstamp fc7a4485-4f4a-4038-9d21-d85f937a806c))
-  (model ":ALVARO3D:1054500101.stp"
+  (model "${ALVAROP_3D_DIR}/1054500101.stp"
     (offset (xyz 0 -2.6 1.6))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))

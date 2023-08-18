@@ -127,7 +127,7 @@
   (pad "19" smd roundrect (at -0.449999 -1.477401) (size 0.2192 0.7548) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 942bb509-0865-4ee6-a623-811abdc04cfe))
   (pad "20" smd roundrect (at -0.900001 -1.477401) (size 0.2192 0.7548) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp f3472f66-06f8-4d1d-8970-a78970a3d87c))
   (pad "21" smd roundrect (at 0 0) (size 1.7 1.7) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.05) (tstamp 57184437-fcd7-4f17-b91e-bb6262dffb85))
-  (model "/home/alvaro/code/kicad6/3d/20M2_ATM.step"
+  (model "${ALVAROP_3D_DIR}/20M2_ATM.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

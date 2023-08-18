@@ -23,7 +23,7 @@
   (pad "2" thru_hole circle (at -1 0) (size 1.75 1.75) (drill 1) (layers *.Cu *.Mask) (tstamp a96ec4a6-2ec2-4309-8305-a962665f806f))
   (pad "3" thru_hole circle (at 1 0) (size 1.75 1.75) (drill 1) (layers *.Cu *.Mask) (tstamp f817e660-3ffd-44db-8863-28e91b642731))
   (pad "4" thru_hole circle (at 3.5 0) (size 1.75 1.75) (drill 1) (layers *.Cu *.Mask) (tstamp d00e4055-e4c2-4720-86f6-8375032a9976))
-  (model ":mfg:m-ue27-ac54-100-revt1.step"
+  (model "${ALVAROP_3D_DIR}/m-ue27-ac54-100-revt1.step"
     (offset (xyz 0 0.75 7.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

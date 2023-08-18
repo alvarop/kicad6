@@ -48,7 +48,7 @@
   (pad "S1" thru_hole oval (at 0 2.8) (size 2.2 0.9) (drill oval 1.8 0.5) (layers *.Cu *.Mask) (tstamp bc08ac63-0d42-4120-9000-5a8a59c7de0f))
   (pad "S1" thru_hole oval (at -1.75 -2.8) (size 1.8 0.9) (drill oval 1.4 0.5) (layers *.Cu *.Mask) (tstamp c674db67-6f57-4718-8f6d-d0620d91f141))
   (pad "S1" thru_hole oval (at 1.75 -2.8) (size 1.8 0.9) (drill oval 1.4 0.5) (layers *.Cu *.Mask) (tstamp ee64b22a-7c5a-43fe-9e7b-1af382959dde))
-  (model "/home/alvaro/code/kicad6/3d/USB4151-GF-C_REVA.step"
+  (model "${ALVAROP_3D_DIR}/USB4151-GF-C_REVA.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

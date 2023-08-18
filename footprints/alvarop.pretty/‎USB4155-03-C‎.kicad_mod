@@ -61,7 +61,7 @@
   (pad "B12" smd roundrect (at 2.625 -0.6) (size 0.3 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 029615cb-520a-4932-a0a6-79ed3c47ea42))
   (pad "S1" thru_hole oval (at 3.7 -2.3) (size 1 1.8) (drill oval 0.5 1.3) (layers *.Cu *.Mask) (tstamp 034b7146-cab9-44a1-89a8-6c24f0f72d84))
   (pad "S1" thru_hole oval (at -3.7 -2.3) (size 1 1.8) (drill oval 0.5 1.3) (layers *.Cu *.Mask) (tstamp bad68e3f-2fbc-40df-9718-9277cedfbff9))
-  (model "/home/alvaro/code/kicad6/3d/USB4155-03-C--3DModel-STEP-1.STEP"
+  (model "${ALVAROP_3D_DIR}/USB4155-03-C--3DModel-STEP-1.STEP"
     (offset (xyz 0 -12.7 0.15))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

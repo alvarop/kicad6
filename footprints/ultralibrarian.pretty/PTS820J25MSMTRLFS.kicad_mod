@@ -28,7 +28,7 @@
   (pad "" np_thru_hole circle (at 0 0.899922) (size 0.8128 0.8128) (drill 0.8128) (layers *.Cu *.Mask) (tstamp fb9fc66e-7fd9-48a3-b086-6614eca2e97c))
   (pad "1" smd rect (at -2.075 0) (size 0.9398 1.397) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a656299d-9282-4f07-8fdf-1eb95b65a6fb))
   (pad "2" smd rect (at 2.075 0) (size 0.9398 1.397) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b1b699a1-ac8f-4420-bead-9cba26c93cbe))
-  (model ":mfg:PTS820J25MSMTRLFS.stp"
+  (model "${ALVAROP_3D_DIR}/PTS820J25MSMTRLFS.stp"
     (offset (xyz -2.286 1.524 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))

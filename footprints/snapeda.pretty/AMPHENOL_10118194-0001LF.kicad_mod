@@ -967,7 +967,7 @@
   (pad "6" thru_hole oval (at 3.5 0) (size 0.775 1.55) (drill oval 0.5 1.15) (layers *.Cu *.Mask) (tstamp 669728ad-a58c-41bb-910f-60e8858b0f43))
   (pad "6" thru_hole oval (at -3.5 0) (size 0.775 1.55) (drill oval 0.5 1.15) (layers *.Cu *.Mask) (tstamp 6f606e91-363f-43b2-8688-df332c197efa))
   (pad "6" smd rect (at -1 0) (size 1.5 1.55) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b3465bd8-c9eb-4da5-b761-f5c1e27c3dfe))
-  (model ":3d:10118194-0001LF.step"
+  (model "${ALVAROP_3D_DIR}/10118194-0001LF.step"
     (offset (xyz -75.025 3.1 -0.25))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

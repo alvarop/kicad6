@@ -320,7 +320,7 @@
   (pad "46" smd rect (at -1.749999 -4.2164) (size 0.2794 1.4732) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 46c1d222-181e-47b5-9380-eaf9d6e17a22))
   (pad "47" smd rect (at -2.250001 -4.2164) (size 0.2794 1.4732) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9aaa330e-e354-4146-9764-a5ab52cbe980))
   (pad "48" smd rect (at -2.75 -4.2164) (size 0.2794 1.4732) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c13dd0e5-49ec-4f39-8c5b-f64c54d45afa))
-  (model ":ultralibrarian:LQFP-48.step"
+  (model "${ALVAROP_3D_DIR}/LQFP-48.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

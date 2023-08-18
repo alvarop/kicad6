@@ -11,7 +11,7 @@
     (tstamp 283f6910-e54a-4bc1-a20d-86715c3ab323)
   )
   (pad "1" thru_hole circle (at 0 0) (size 1.8796 1.8796) (drill 0.508) (layers *.Cu *.Mask) (tstamp ee823590-ecbd-4107-bb1f-1a309e1b21af))
-  (model ":mfg:mill-max-0906-3-15-20-75-14-11-0.step"
+  (model "${ALVAROP_3D_DIR}/mill-max-0906-3-15-20-75-14-11-0.step"
     (offset (xyz 0 0 -1.7526))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 90 0))
